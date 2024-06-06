@@ -1,32 +1,61 @@
-## Olá! Eu sou a Roberta Fernandes
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-- 🖥️ I currently work as an IT intern
-- 🌱 Studying JavaScript, Programming Logic, Object Oriented Programming
-- 😄 Pronouns: she/her
+<!--<img align="center" alt="" src="./src/header-gif.gif">-->
+
+#
+
+<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e possuo diploma técnico em Enfermagem.
+Me interesso tanto por front quanto por back-end, e minhas principais linguagem no momento é JavaScript. 
+Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+
+#
+
+<img align="right" alt="Beta-Gif" height="190" width="190" src="https://github.com/betanandes/betanandes/blob/main/hi.gif"/>
+
+<h3 align="left">Connect with me!</h3>
+
+<div>
+  <a href = "mailto:robertafernandes2100@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/roberta-fernandes-a067b9167/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" target="_blank">
+  </a> 
+  
+  <a href="https://instagram.com/robertanands" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" target="_blank"> 
+ </a>
+</div>
+
+
+<h3 align="left">My Stack ~</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Beta-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Beta-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Beta-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Beta-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Beta-Jupyter" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+</div>
+
+#
+
+ <h3>* GitHub Stats *</h3>
+  <br>
   
 <a href="https://github.com/betanandes/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=betanandes&theme=jolly" />
 </a>
 <a href="https://github.com/betanandes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=betanandes&layout=compact&langs_count=8&card_width=320&theme=jolly"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=betanandes&layout=compact&langs_count=8&card_height=10&card_width=290&theme=jolly"/>
 </a>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Beta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Beta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Beta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Beta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Beta-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-    <img align="right" alt="Beta-Gif" height="150" width="150" src="https://github.com/betanandes/betanandes/blob/main/hi.gif"/>
-</div>
 
 ##
 
-<div>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:robertafernandes2100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/robertanands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
 
 ![snake gif](https://github.com/betanandes/betanandes/blob/output/github-contribution-grid-snake-dark.svg)
