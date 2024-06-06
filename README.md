@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM e possuo diploma técnico em Enfermagem.
+<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNISUAM.
 Me interesso tanto por front quanto por back-end, e minhas principais linguagem no momento é JavaScript. 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
