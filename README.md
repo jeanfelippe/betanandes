@@ -56,7 +56,10 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=betanandes&layout=compact&langs_count=8&card_height=10&card_width=290&theme=jolly"/>
 </a>
 
-##
+#
 
-
-![snake gif](https://github.com/betanandes/betanandes/blob/output/github-contribution-grid-snake-dark.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/betanandes/betanandes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/betanandes/betanandes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/betanandes/betanandes/output/github-contribution-grid-snake.svg">
+</picture>
