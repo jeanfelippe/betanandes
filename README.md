@@ -17,7 +17,7 @@
     <img align="center" alt="Beta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Beta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Beta-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-    <img align="right" alt="Beta-Gif" src="https://discord.com/channels/872181792625557504/872181792625557507/hi.gif.gif"/>
+    <img align="right" alt="Beta-Gif" height="150" width="150" src="https://github.com/betanandes/betanandes/blob/main/hi.gif"/>
 </div>
 
 ##
@@ -28,3 +28,5 @@
   <a href="https://instagram.com/robertanands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/betanandes)
