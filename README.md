@@ -29,4 +29,4 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/betanandes)
+![snake gif](https://github.com/betanandes/betanandes/blob/output/github-contribution-grid-snake.svg)
