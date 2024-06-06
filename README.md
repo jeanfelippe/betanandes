@@ -45,6 +45,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 #
 
+<div style="text-align: center;" align="center">
  <h3>* GitHub Stats *</h3>
   <br>
   
